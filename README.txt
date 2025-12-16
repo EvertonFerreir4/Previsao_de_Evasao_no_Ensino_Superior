@@ -49,9 +49,6 @@ Disponibilizar uma aplicação em Streamlit para uso prático e demonstrativo.
 ├── Relatório_Final___Aplicação_de_IA_para_Previsão_de_Evasão_no_Ensino_Superior.pdf
 └── README.md
 
-
-⚠️ Os nomes de arquivos podem variar conforme sua organização local, mas a lógica geral segue essa estrutura.
-
 📊 Base de Dados
 
 Origem: Higher Education Students Performance Dataset
