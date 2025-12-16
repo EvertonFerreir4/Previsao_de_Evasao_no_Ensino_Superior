@@ -1,0 +1,9 @@
+# Core
+python>=3.10
+
+# Data manipulation
+numpy>=1.23,<2.0
+pandas>=1.5,<3.0
+
+# Machine Learning
+scikit-learn>=1.6,<1
