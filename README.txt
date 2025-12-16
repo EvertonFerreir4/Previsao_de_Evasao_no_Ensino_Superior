@@ -84,18 +84,8 @@ Remoção da coluna Target antes da predição.
 
 Normalização das variáveis numéricas com StandardScaler, aplicando a transformação:
 
-𝑧
-=
-𝑥
-−
-𝜇
-𝜎
-z=
-σ
-x−μ
-	​
-
-
+𝑧 = (𝑥 − 𝜇) / 𝜎
+​
 onde:
 
 𝑥
